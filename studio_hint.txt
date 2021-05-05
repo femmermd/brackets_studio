@@ -1,0 +1,16 @@
+Test cases:
+
+""
+"[]"
+"[LaunchCode]"
+"Launch[Code]"
+"[]LaunchCode"
+"[]LaunchCode[]"
+"[[LaunchCode]]"
+"]["
+"[LaunchCode"
+"Launch]Code["
+"["
+"[launch[]"
+"[launch[]"
+"]launch[]"
